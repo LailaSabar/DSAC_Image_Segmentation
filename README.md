@@ -3,10 +3,10 @@
 In this code, we combine the expressiveness of deep CNNs with the versatility of ACMs in a unified framework, which we call Deep Structured Active Contours (DSAC). In essence, we employ a CNN to learn the energy function that would allow an ACM to generate polygons close to a set of ground truth instances.
 
 
-## Datasets
+## Dataset
 
 [Vaihingen buildings](https://drive.google.com/open?id=1nenpWH4BdplSiHdfXs0oYfiA5qL42plB)
 
-## Usage
+## Requirements
 
 Download and unzip the datasets. Modify the dataset paths in the main file and run them with Python 3. Requires Tensorflow 1.4.
