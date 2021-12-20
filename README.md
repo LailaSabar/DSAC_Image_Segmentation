@@ -5,7 +5,7 @@ In this code, we combine the expressiveness of deep CNNs with the versatility of
 
 ## Datasets
 
-[Vaihingen buildings](https://drive.google.com/open?)
+[Vaihingen buildings](https://drive.google.com/open?id=1nenpWH4BdplSiHdfXs0oYfiA5qL42plB)
 
 ## Usage
 
